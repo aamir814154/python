@@ -1,1 +1,1 @@
-print("aamir khan ki jia hoo")
+print("imran khan ki jia hoo")
